@@ -1,4 +1,7 @@
 <h1>Hi, I'm Jakob! <a href="https://linkedin.com/in/jakoblester"></a></h1>
+
+Checkout some of the exciting projects I've been working on!
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>

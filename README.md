@@ -1,9 +1,6 @@
 <h1>Hi, I'm Jakob! <a href="https://linkedin.com/in/jakoblester"></a></h1>
 
-Checkout some of the exciting projects I've been working on!
-
-<h2>👨‍💻 Software Engineering Projects:</h2>
-
+Aspiring Software Engineer!
 
 <h2>🤳Connect with me:</h2>
 

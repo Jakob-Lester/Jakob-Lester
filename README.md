@@ -1,4 +1,7 @@
-<h1>Hi, I'm Jakob! <a href="https://linkedin.com/in/jakoblester"></a></h1>
+<h1 align="center">Hi 👋 I'm Jakob Lester</h1>
+
+ # About Me:  
+ </h1>
 
 Second-year Computer Science student at Southern New Hampshire University, concentrating in Software Engineering. I'm passionate about building applications and constantly learning new technologies to bring my ideas to life. 
 

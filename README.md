@@ -3,7 +3,7 @@
  # About Me:  
  </h1>
 
-Second-year Computer Science student at Southern New Hampshire University, concentrating in Software Engineering. I'm passionate about building applications and constantly learning new technologies to bring my ideas to life. 
+Second-year Information Technology student at Southern New Hampshire University. I'm passionate about building applications and constantly learning new technologies to bring my ideas to life. 
 
 <h2>🤳Connect with me:</h2>
 
